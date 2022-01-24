@@ -5,6 +5,8 @@
 layout: page
 ---
 
+# Title
+
 CS 426 Senior Project in Computer Science, Spring 2022, at UNR, CSE Department
 
 ## Team 11
