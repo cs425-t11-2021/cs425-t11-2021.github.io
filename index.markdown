@@ -31,7 +31,7 @@ CS 426 Senior Project in Computer Science, Spring 2022, at UNR, CSE Department
 
 ## Project Description
 
-insert project description here
+Graph-It is a graph theory toolbox and graph visualization application to allow users to easily create graphs and efficiently run algorithms on the graphs. insert more text here
 
 ## Project Related Resources
 
