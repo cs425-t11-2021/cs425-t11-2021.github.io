@@ -30,7 +30,7 @@ url: "https://cs425-t11-2021.github.io/" # the base hostname & protocol for your
 github_username:  cs425-t11-2021
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 #plugins:
   #- jekyll-feed
 
