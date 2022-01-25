@@ -42,13 +42,17 @@ Graph-It provides a convenient and efficient solution for users to create graphs
 ## Project Related Resources
 (NOT COMPLETE -- just listing out some stuff, feel free to edit, change formatting, remove, and add more; pulled from PA2 from last semester)
 ### Problem domain book
-- Introduction to Algorithms. 3rd Edition. Cormen et al.
+- Cormen et al. (2009) Introduction to Algorithms. Third Edition.
+- Douglas B. West (2021). Combinatorial Mathematics.
+- László Lovász (2000). Combinatorial Problems and Exercises. Second Edition.
 
 ### Websites useful/related to your project
 - <a href="https://gephi.org/"> An existing graph application: Gephi
 - <a href="https://learn.unity.com/"> Unity Tutorials
 
 ### Technical reports, conference papers, and/or journal articles
+- <a href= "https://www.cse.unr.edu/~fredh/papers/thesis/PHD-001-Judy-Fredrickson/text.pdf"> Fredrickson, J. R., & Harris, F. C. (2006). On the Crossing Number of Complete Graphs: Growing Minimal Kn From Minimal Kn−1. 
+- <a href="https://www.cse.unr.edu/~fredh/papers/thesis/PHD-007-Adrienne-Breland/dissertation.pdf"> Breland, A. E. (2011). A Fast-Graph Approach to Modeling Similarity of Whole Genomes. 
 
 ### Technology
 - Unity
