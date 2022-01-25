@@ -47,7 +47,7 @@ Graph-It provides a convenient and efficient solution for users to create graphs
 - László Lovász (2000). Combinatorial Problems and Exercises. Second Edition.
 
 ### Websites useful/related to your project
-- <a href="https://gephi.org/" target="_blank"> An existing graph application: Gephi
+- <a href="https://gephi.org/"> An existing graph application: Gephi
 - <a href="https://learn.unity.com/"> Unity Tutorials
 
 ### Technical reports, conference papers, and/or journal articles
