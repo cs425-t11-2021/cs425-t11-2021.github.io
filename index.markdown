@@ -40,12 +40,16 @@ Additional features include displaying updated information about the graph, such
 Graph-It provides a convenient and efficient solution for users to create graphs and run algorithms on the graphs without needing to draw the graphs or run various algorithms on the graphs by hand, thus saving time for users. 
 
 ## Project Related Resources
-(NOT COMPLETE -- just listing out some stuff, feel free to edit, change formatting, remove, and add more)
+(NOT COMPLETE -- just listing out some stuff, feel free to edit, change formatting, remove, and add more; pulled from PA2 from last semester)
 ### Problem domain book
+- Introduction to Algorithms. 3rd Edition. Cormen et al.
 
 ### Websites useful/related to your project
+- <a href="https://gephi.org/"> An existing graph application: Gephi
+- <a href="https://learn.unity.com/"> Unity Tutorials
 
 ### Technical reports, conference papers, and/or journal articles
 
 ### Technology
--Unity
+- Unity
+- Visual Studio Code
