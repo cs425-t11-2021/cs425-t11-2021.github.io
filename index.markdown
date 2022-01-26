@@ -37,7 +37,7 @@ Users are able to create graphs through various methods. Graph-It allows users t
 
 Additional features include displaying updated information about the graph, such as the number of vertices, the number of edges, the chromatic number, and whether the graph is bipartite. Graph-It also provides multiple algorithms for users to run on their graph. Some of the algorithms include algorithms for finding minimum spanning trees, shortest paths, Eulerian circuits, and maximal matchings. The results of the algorithms will be highlighted on the graph, which then can be saved.
 
-Graph-It provides a convenient and efficient solution for users to create graphs and run algorithms on the graphs without needing to draw the graphs or run various algorithms on the graphs by hand, thus saving time for users. 
+Graph-It provides a convenient and efficient solution for users to create graphs and run algorithms on the graphs. Users will not need to draw the graphs or run various algorithms on the graphs by hand, thus saving time. 
 
 ## Project Related Resources
 ### Problem domain book
