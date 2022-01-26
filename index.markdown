@@ -45,7 +45,7 @@ Graph-It provides a convenient and efficient solution for users to create graphs
 - Douglas B. West (2021). Combinatorial Mathematics.
 - László Lovász (2000). Combinatorial Problems and Exercises. Second Edition.
 
-### Websites useful/related to your project
+### Websites useful/related to the project
 - <a href="https://gephi.org/"> An existing graph application: Gephi
 - <a href="https://learn.unity.com/"> Unity Tutorials
 
