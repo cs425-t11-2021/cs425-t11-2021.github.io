@@ -4,7 +4,7 @@
 
 layout: page
 ---
-![Graph-It logo]({{ https://github.com/cs425-t11-2021/cs425-t11-2021.github.io/blob/2c7c2a89bace5973b6ff09e3d59c902027a5f6e3/images/logo3.png }}/images/logo3.png)
+![Graph-It logo]({{ https://github.com/cs425-t11-2021/cs425-t11-2021.github.io/blob/2c7c2a89bace5973b6ff09e3d59c902027a5f6e3/images/logo3.png }}/images/logo3.png){:width="250px" height ="250px"}
 
 # Graph-It
 
