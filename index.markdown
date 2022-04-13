@@ -6,9 +6,9 @@ layout: page
 ---
 <!--![alt text](https://github.com/cs425-t11-2021/cs425-t11-2021.github.io/blob/main/images/logo3.png "Graph-It logo") -->
 
+![alt text][logo]
 
-![Screenshot][logo.png]
-![alt text][logo3.png]
+[logo]: https://github.com/cs425-t11-2021/cs425-t11-2021.github.io/blob/main/images/logo3.png "Graph-It logo"
 # Graph-It
 
 CS 426 Senior Project in Computer Science, Spring 2022, at UNR, CSE Department
