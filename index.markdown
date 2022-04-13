@@ -10,7 +10,7 @@ layout: page
     <logo src="images/logo3.png" width="500" height="500" />
 </p>
 
-![alt text][logo]
+![alt text](logo)
 # Graph-It
 
 CS 426 Senior Project in Computer Science, Spring 2022, at UNR, CSE Department
