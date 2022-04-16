@@ -37,6 +37,7 @@
 </nav>
 
 <div class="container">
+<br />
 <h1>About</h1>
 <br />
 <h2>Project Description</h2>
@@ -49,11 +50,25 @@
 
 <p>Graph-It provides a convenient and efficient solution for users to create graphs and run algorithms on the graphs. Users will not need to draw the graphs or run various algorithms on the graphs by hand, thus saving time. </p>
 
-  <h3>User Interface</h3>
-  <ul>A screenshot of the user interface is shown below. A menubar with dropdowns are provided at the top for users to create and save graphs, perform graph modifications (including the option to create a subgraph from an exsiting graph),
-    adjust 
+  <h3>User Interface and Front-End</h3>
+  <ul>A screenshot of the user interface is shown below. A menubar with dropdowns are provided at the top for users to create and save graphs, perform graph modifications (including the option to create a subgraph from an exsiting graph), and
+    adjust the view (show/hide graph labels and show/hide toolbar). The panels of graph information and graph algorithmsis located on the left, leaving the rest of the space for the user to create and work on their graphs. Graph-It uses Unity game engine to render graph objects such as vertices and edges, and Unity's C# scripting system to program the interactions between such objects.
   </ul>
-  <img src="images/ui_overview.png" style="float:left">
+  
+<br />
+<div class="text-center">
+  <img src="images/ui_screenshot.png" style="max-width:90%;" alt = "screenshot of ui">
+  
+</div>
+
+<br />
+<h3>Backend Data Structures</h3>
+<ul>The graph information is stored ulizing a Vertex class, Edge class, adjacency matrix, and an adjacency list. Graph customization data, such as graph labels, edge weights, and edge and vertex styles are also encapsulated.
+    The graph algorithms are managed through the AlgorithmManager and Algorithm classes. The AlgorithmManager class is responsible for starting, ending, and maintaining algorithms, and Algorithm class is responsible for encoding the basic behavior of an algorithm such as the execution and multithreaded nature. 
+    To import and export graphs, the application loads from .csv files and saves to .csv files. Users can also save graphs as png images with transparent backgrounds.
+
+</ul>
+
 <h2>Poster</h2>
 
 <h2>Documentation</h2>
